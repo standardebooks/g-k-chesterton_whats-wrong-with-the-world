@@ -31,45 +31,45 @@
 		<dc:subject id="subject-1">Social problems</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85123988</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">G. K. Chesterton gives his commentary on various social issues of his day, such as property, imperialism, feminism, and education.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;What’s Wrong with the World&lt;/i&gt;, author &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt; criticizes the various positions that were current in his day regarding property, imperialism, education, and home life. He believed that both unfettered capitalism and socialism erode society, breaking up the family and keeping the poor in their poverty. He advocates for a broader distribution of both property and political power, which is known as “Distributism,” of which Chesterton and his friend &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; became well-known advocates. (He did not, however, want to extend voting power to women, believing the State to be inherently violent and not wanting women to participate in that violence.)&lt;/p&gt;
+			&lt;p&gt;While this book was written in 1910, many of the issues Chesterton addresses are still live issues today, such as home ownership, public education, and the erosion of democracy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1717</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/in.ernet.dli.2015.111936</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_whats-wrong-with-the-world</meta>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
 		<meta property="file-as" refines="#author">Chesterton, G. K.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Gilbert Keith Chesterton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/G._K._Chesterton</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79021157</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Georges Antoine Rochegrosse</dc:contributor>
+		<meta property="file-as" refines="#artist">Rochegrosse, Georges Antoine</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Georges_Rochegrosse</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr90023134</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Georges Allaire</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Allaire, Georges</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Martin Ward</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Ward, Martin</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
+		<dc:contributor id="transcriber-3">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Widger, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">Devin O'Bannon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">O'Bannon, Devin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
