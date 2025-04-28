@@ -8,7 +8,7 @@ section[epub|type~="dedication"] > p:first-of-type{
 	text-align: center;
 }
 
-section[epub|type~="dedication"] > p:first-of-type + p{
+section[epub|type~="dedication"] > p:nth-of-type(2){
 	font-variant: small-caps;
 	text-indent: 0;
 }
