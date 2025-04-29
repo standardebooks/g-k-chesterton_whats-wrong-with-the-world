@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/g-k-chesterton/whats-wrong-with-the-world</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-04-29T03:11:02.656409Z</dc:date>
+		<meta property="dcterms:modified">2025-04-29T03:11:02.656409Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,17 +33,17 @@
 		<meta property="term" refines="#subject-1">sh85123988</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">G. K. Chesterton gives his commentary on various social issues of his day, such as property, imperialism, feminism, and education.</dc:description>
+		<dc:description id="description">Philosopher G. K. Chesterton comments on various social issues of his day, including property, imperialism, feminism, and education.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;What’s Wrong with the World&lt;/i&gt;, author &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt; criticizes the various positions that were current in his day regarding property, imperialism, education, and home life. He believed that both unfettered capitalism and socialism erode society, breaking up the family and keeping the poor in their poverty. He advocates for a broader distribution of both property and political power, which is known as “Distributism,” of which Chesterton and his friend &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; became well-known advocates. (Chesterton did not, however, want to extend voting power to women, believing the State to be inherently violent and not wanting women to participate in that violence.)&lt;/p&gt;
-			&lt;p&gt;While this book was written in 1910, many of the issues Chesterton addresses are still live issues today, such as home ownership, public education, and the erosion of democracy.&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;What’s Wrong with the World&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt; criticizes contemporary societal positions on property, imperialism, education, and home life. He believed that both unfettered capitalism and socialism erode society, breaking up the family and keeping the poor in poverty. He advocates for a broader distribution of both property and political power, a philosophy that became known as “Distributism,” and of which Chesterton and his friend &lt;a href="https://standardebooks.org/ebooks/hilaire-belloc"&gt;Hilaire Belloc&lt;/a&gt; became well-known advocates.&lt;/p&gt;
+			&lt;p&gt;While this book was written in 1910, many of the issues Chesterton addresses, like home ownership, public education, and the erosion of democracy, remain important social issues in the modern day.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1717</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.111936</dc:source>
 		<meta property="se:production-notes">The PG transcription is of the first edition, and was thoroughly updated by the producer according to the page scans, which were of the ninth edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">60074</meta>
+		<meta property="se:reading-ease.flesch">57.3</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_whats-wrong-with-the-world</meta>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
 		<meta property="file-as" refines="#author">Chesterton, G. K.</meta>
@@ -74,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
