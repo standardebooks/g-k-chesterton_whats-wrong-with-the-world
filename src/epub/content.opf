@@ -43,7 +43,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1717</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.111936</dc:source>
 		<meta property="se:production-notes">The PG transcription is of the first edition, and was thoroughly updated by the producer according to the page scans, which were of the ninth edition.</meta>
-		<meta property="se:word-count">60073</meta>
+		<meta property="se:word-count">59907</meta>
 		<meta property="se:reading-ease.flesch">57.3</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/g-k-chesterton_whats-wrong-with-the-world</meta>
 		<dc:creator id="author">G. K. Chesterton</dc:creator>
